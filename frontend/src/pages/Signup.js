@@ -87,7 +87,7 @@ function Signup() {
             </Button>
             <div className='py-4'>
               <p className='text-center'>
-                Bạn đã có tài khoản ? <Link to="/signup">Đăng nhập</Link>
+                Bạn đã có tài khoản ? <Link to="/login">Đăng nhập</Link>
               </p>
             </div>
           </Form>
