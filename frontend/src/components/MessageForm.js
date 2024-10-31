@@ -16,11 +16,11 @@ function MessageForm() {
         <Row>
           <Col md={11}>
 
-            <Form.Group>
-              <Form.Control type='text' placeholder='Tin nhắn của bạn'>
+            <FormGroup>
+              <FormControl type='text' placeholder='Tin nhắn của bạn'>
 
-              </Form.Control>
-            </Form.Group>
+              </FormControl>
+            </FormGroup>
          </Col>
 
           <Col md={1} style={{position: "relative"}}>
